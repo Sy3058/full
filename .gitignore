@@ -12,9 +12,13 @@ c/**/*
 !c/**/Makefile
 !c/**/Makefile.*
 
-# java
+## java
 **/*.class
 
-# scala
+## scala
 scala/**/project
 scala/**/target
+
+## maven
+maven/**/target
+
